@@ -1,0 +1,9 @@
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/SpringBootFirstWebApplication.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/EnvironmentConfigurationLogger.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/security/SecurityConfiguration.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/controller/TodoController.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/controller/WelcomeController.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/controller/ErrorController.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/controller/LogoutController.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/service/TodoRepository.java
+/home/dennis/IdeaProjects/docker-crash-course/02-todo-web-application-h2/src/main/java/com/densoft/springboot/web/model/Todo.java
